@@ -1,0 +1,5 @@
+# Collisions
+
+A hash function takes all given keys and translates them into indexes in an array. This typically means that there are many more keys than there are indexes. This being the case, it is always possible that two or more keys will be translated into exactly the same index. When this happens we have a collision. It is important to keep in mind that collisions are unavoidable. We should, however, have a method of resolving them when they do occur. The most naïve approach would be to manipulate values used within our hash function until we achieve our desired distribution. Doing this seems like the fastest solution on the surface however, at some point we are bound to encounter our original problem all over again so it becomes imperative to find more long term solutions to this problem, we will be exploring these potential solutions in the coming pages.&#x20;
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hash\_table\_4\_1\_1\_0\_0\_1\_0\_LL.svg/480px-Hash\_table\_4\_1\_1\_0\_0\_1\_0\_LL.svg.png](<../../../.gitbook/assets/image (63).png>)

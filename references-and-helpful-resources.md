@@ -1,0 +1,53 @@
+---
+description: I have grouped the resources by respective creators
+---
+
+# References & helpful resources
+
+
+
+* [Intro to Data Structures and Algorithms - Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+* [Algorithms: Computer Science - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+* [Chris Laux's website](https://www.chrislaux.com/)
+* [Data Structures and Algorithms - Cathy At Seneca](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/)
+* [Asymptotic Bounding 101: Big O, Big Omega, & Theta - Back To Back SWE](https://www.youtube.com/watch?v=0oDAlMwTrLo\&list=PLiQ766zSC5jOuk-QnjvTv7E8wqOTQ-Ic9\&index=4)
+* [What Is Asymptotic Analysis? And Why Does It Matter? A Deeper Understanding of Asymptotic Bounding - Back To Back SWE](https://www.youtube.com/watch?v=myZKhztFhzE\&list=PLiQ766zSC5jOuk-QnjvTv7E8wqOTQ-Ic9\&index=5)
+* [Data Structures & Algorithms #1 - What Are Data Structures? -CS Dojo](https://www.youtube.com/watch?v=bum\_19loj9A\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=1)
+* [Introduction to Linked Lists (Data Structures & Algorithms #5) - CS Dojo](https://www.youtube.com/watch?v=WwfhLC16bis\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=5)
+* [Introduction to Recursion (Data Structures & Algorithms #6) - CS Dojo](https://www.youtube.com/watch?v=B0NtAFf4bvU\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=6)
+* [Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7) - CS Dojo](https://www.youtube.com/watch?v=D6xkbGLQesk\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=7)
+* [Introduction to Trees (Data Structures & Algorithms #9) - CS Dojo](https://www.youtube.com/watch?v=1-l\_UOFi1Xw\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=9)
+* [Introduction to Binary Search (Data Structures & Algorithms #10) - CS Dojo](https://www.youtube.com/watch?v=6ysjqCUv3K4\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=10)
+* [A Complete Overview of Quicksort (Data Structures & Algorithms #11) - CS Dojo](https://www.youtube.com/watch?v=0SkOjNaO1XY\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=11)
+* [Introduction to Stacks and Queues (Data Structures & Algorithms #12) - CS Dojo](https://www.youtube.com/watch?v=A3ZUpyrnCbM\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=12)
+* [Introduction to Hash Tables and Dictionaries (Data Structures & Algorithms #13) - CS Dojo](https://www.youtube.com/watch?v=sfWyugl4JWA\&list=PLBZBJbE\_rGRV8D7XZ08LK6z-4zPoWzu5H\&index=13)
+* [Bubble Sort Algorithm Explained - Derrick Sherrill ](https://www.youtube.com/watch?v=g\_xesqdQqvA)
+* [Selection Sort Algorithm Explained - Derrick Sherrill ](https://www.youtube.com/watch?v=4CykZVqBuCw\&t=256s)
+* [Insertion Sort Algorithm Explained - Derrick Sherrill ](https://www.youtube.com/watch?v=byHi41L9vTM)
+* [Quick Sort Algorithm Explained - Derrick Sherrill](https://www.youtube.com/watch?v=kFeXwkgnQ9U)
+* [Merge Sort - Coding Algorithms Explained - Aaron Jack](https://www.youtube.com/watch?v=1sdEchFsL0Y\&t=1s)
+* [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation - Tom Scott](https://www.youtube.com/watch?v=RGuJga2Gl\_k\&t=494s)
+* [Depth First Search (DFS) Explained: Algorithm, Examples, and Code - Reducible](https://www.youtube.com/watch?v=PMMc4VsIacU\&t=755s)
+* [Breadth First Search (BFS): Visualized and Explained - Reducible](https://www.youtube.com/watch?v=xlVX7dXLS64\&list=PLpXOY-RxVRTPPVLBP6-sz6CMWxhtrI-v\_\&index=3)
+* [Data Structures and Algorithms - Arrays - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/array\_data\_structure.htm)
+* [Data Structure and Algorithms - Linked List - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/linked\_list\_algorithms.htm)
+* [Data Structure - Doubly Linked List - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/doubly\_linked\_list\_algorithm.htm)
+* [Data Structure and Algorithms - Stack - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/stack\_algorithm.htm)
+* [Data Structure and Algorithms - Queue - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/dsa\_queue.htm)
+* [Data Structure and Algorithms Linear Search - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/linear\_search\_algorithm.htm)
+* [Data Structure and Algorithms Binary Search - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/binary\_search\_algorithm.htm)
+* [Data Structure and Algorithms - Hash Table - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/hash\_data\_structure.htm)
+* [Data Structures - Merge Sort Algorithm - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/merge\_sort\_algorithm.htm)
+* [Data Structure and Algorithms - Quick Sort - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/quick\_sort\_algorithm.htm)
+* [Data Structure - Depth First Traversal - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/depth\_first\_traversal.htm)
+* [Data Structure - Breadth First Traversal - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/breadth\_first\_traversal.htm)
+* [Data Structure and Algorithms - Tree - TutorialsPoint ](https://www.tutorialspoint.com/data\_structures\_algorithms/tree\_data\_structure.htm)
+* [Data Structure & Algorithms - Tree Traversal - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/tree\_traversal.htm)
+* [Data Structure - Binary Search Tree - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/binary\_search\_tree.htm)
+* [Heap Data Structures - TutorialsPoint](https://www.tutorialspoint.com/data\_structures\_algorithms/heap\_data\_structure.htm)
+* [Bogo Sort - Geeks For Geeks](https://www.geeksforgeeks.org/bogosort-permutation-sort/)
+* [Merge Sort - Geeks For Geeks](https://www.geeksforgeeks.org/merge-sort/)
+* [Quick Sort - Geeks For Geeks](https://www.geeksforgeeks.org/quick-sort/)
+* [How to implement depth-first search in Python - Educative](https://www.educative.io/edpresso/how-to-implement-depth-first-search-in-python)
+* [How to implement a ​breadth-first search in Python - Educative](https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python)
+
